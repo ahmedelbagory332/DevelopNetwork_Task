@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DevelopNetwork_Task</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="log_out">LogOut</string>
+    <string name="your_full_name">Your Full Name</string>
+    <string name="your_phone">Your Phone</string>
+    <string name="email">Your Email</string>
+    <string name="password">Your Password</string>
+    <string name="sign_up_to_discover_the_product">Sign up to discover the product</string>
+    <string name="sign_in_to_discover_the_product">Sign in to discover the product</string>
+</resources>
